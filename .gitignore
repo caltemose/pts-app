@@ -1,0 +1,7 @@
+# OS-specific stuff to ignore #
+Thumbs.db
+.Splotlight*
+.DS_Store
+.Trashes
+._*
+
