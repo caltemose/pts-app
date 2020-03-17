@@ -1,7 +1,7 @@
 # OS-specific stuff to ignore #
 Thumbs.db
-.Splotlight*
+.Spotlight*
 .DS_Store
 .Trashes
 ._*
-
+.vs
